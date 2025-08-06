@@ -18,7 +18,27 @@ This repository contains the code and resources for a Computer Science final yea
 - **Evaluation:** PSNR, SSIM, CSNR, Temperature Extraction
 
 ## 📁 Folder Structure
-
+EdgeConnect/
+│
+├── checkpoints/ # Folder for saving model checkpoints
+│
+├── .gitignore # Git ignore rules
+├── License # License for the project
+├── README.md # Project description and usage instructions
+│
+├── init.py # Package initializer
+├── config.py # Configuration settings
+├── dataset.py # Dataset loading and preprocessing
+├── edge_connect.py # Main EdgeConnect model class
+├── github_prim.py # Main Code for mask results and scripts
+├── loss.py # Loss function definitions
+├── main.py # Main execution script
+├── metrics.py # Evaluation metrics
+├── models.py # Model definitions
+├── networks.py # Network architecture
+├── test.py # Testing script
+├── train.py # Training script
+└── utils.py # Utility functions
 
 ## 📝 Citation
 
