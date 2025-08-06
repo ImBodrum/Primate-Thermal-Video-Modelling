@@ -19,3 +19,13 @@ This repository contains the code and resources for a Computer Science final yea
 
 ## 📁 Folder Structure
 
+
+## 📝 Citation
+
+If you use this codebase in your research, please cite the original report and relevant papers.
+
+## 🧠 Author
+
+- Maksut O'Connor | University of Sussex | 2025
+
+
