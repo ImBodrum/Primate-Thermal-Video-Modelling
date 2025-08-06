@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output folders
+outputs/
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# PyTorch & model cache
+*.pth
+*.pt
+
+# VSCode and editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
